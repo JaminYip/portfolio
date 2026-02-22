@@ -1,21 +1,26 @@
 # JaminYip's Portfolio
 
-<img src="https://user-images.githubusercontent.com/34822285/76684088-55211300-664c-11ea-9ba4-08952d32b5fb.jpg" /><br>
+[![Next.js](https://img.shields.io/badge/Next.js-15-000000?logo=next.js)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-12-FF0055?logo=framer)](https://www.framer.com/motion/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 
-[![REACT](https://img.shields.io/badge/react-16.13.0-01579b)](https://ja.reactjs.org/)
-[![MATERIAL-UI](https://img.shields.io/badge/material--ui-v4.9.5-bf360c)](https://material-ui.com/)
-[![TYPESCRIPT](https://img.shields.io/badge/typescript-3.8.3-827717)](https://www.typescriptlang.org/)
+A personal portfolio website showcasing my skills, career, and projects.
 
-This is a personal portfolio website for describe about my skills, career and what I have created.<br>
-Please visit [https://jaminyip.github.io/portfolio/](https://jaminyip.github.io/portfolio/)
+## Tech Stack
 
-## Usage
+- **Framework**: Next.js 15 (App Router)
+- **Styling**: Tailwind CSS 4
+- **Animation**: Framer Motion
+- **Language**: TypeScript
+
+## Getting Started
 
 ```bash
 git clone https://github.com/JaminYip/portfolio.git
-cd react-frontend/
+cd portfolio
 npm install
-npm start
+npm run dev
 ```
 
 ## License
